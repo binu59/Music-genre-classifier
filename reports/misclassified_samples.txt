@@ -1,0 +1,22 @@
+Total misclassified segments: 191 / 998 (19.1%)
+
+segment 102: true=classical  predicted=jazz       confidence=0.91
+segment 103: true=classical  predicted=jazz       confidence=0.96
+segment 104: true=classical  predicted=rock       confidence=0.79
+segment 106: true=classical  predicted=rock       confidence=0.60
+segment 110: true=classical  predicted=jazz       confidence=0.73
+segment 111: true=classical  predicted=rock       confidence=0.59
+segment 112: true=classical  predicted=rock       confidence=0.76
+segment 115: true=classical  predicted=rock       confidence=0.58
+segment 123: true=classical  predicted=rock       confidence=0.94
+segment 124: true=classical  predicted=rock       confidence=0.56
+segment 125: true=classical  predicted=rock       confidence=0.45
+segment 128: true=classical  predicted=rock       confidence=0.85
+segment 139: true=classical  predicted=jazz       confidence=0.54
+segment 140: true=classical  predicted=jazz       confidence=0.76
+segment 145: true=classical  predicted=jazz       confidence=0.85
+segment 200: true=hiphop     predicted=metal      confidence=0.95
+segment 203: true=hiphop     predicted=metal      confidence=0.94
+segment 204: true=hiphop     predicted=metal      confidence=0.79
+segment 207: true=hiphop     predicted=metal      confidence=0.71
+segment 234: true=hiphop     predicted=metal      confidence=0.48

@@ -1,0 +1,13 @@
+Test accuracy: 0.8086
+
+              precision    recall  f1-score   support
+
+   classical      0.825     0.925     0.872       199
+      hiphop      0.862     0.840     0.851       200
+        jazz      0.779     0.760     0.770       200
+       metal      0.843     0.965     0.900       200
+        rock      0.705     0.553     0.620       199
+
+    accuracy                          0.809       998
+   macro avg      0.803     0.808     0.802       998
+weighted avg      0.803     0.809     0.802       998
